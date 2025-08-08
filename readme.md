@@ -1,6 +1,6 @@
 # AI Writing Dignity
 
-An editorial-style site exploring how to use AI to become a better writer—guided by a skeptical, seasoned editor-in-chief perspective. Interactive glossary “hover” tooltips provide RPG-style context on key terms.
+An editorial-style site exploring how to use AI to become a better writer—guided by a skeptical, seasoned editor-in-chief perspective. Interactive glossary “hover” tooltips provide cRPG-style context on key terms.
 
 ## Tech
 - Vite + React + TypeScript
